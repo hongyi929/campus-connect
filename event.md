@@ -2,7 +2,7 @@
 
 Event date: To be confirmed.
 Venue: To be confirmed.
-Organisers: team coordinator, Member 1, Member 2
+Organisers: Member 3
 
 ## Purpose
 
