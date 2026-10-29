@@ -18,3 +18,10 @@ One useful review comment you gave or received: A teammate suggested I decide cl
 One improvement made after feedback: After receiving feedback, I revised my content so it was clearer and more concise, which made it easier for others to review.
 One conflict you resolved and how you decided the final content: When our edits clashed, we talked it through together and agreed on what belonged in the final version, which made the merge faster and cleaner.
 One Git skill you would like to practise further: I’d like to practise resolving merge conflicts so I can handle them faster and with more confidence.
+
+janessa:
+Independent task: I can clone a repo, create and switch branches, commit changes and push them, pull changes from others, open pull requests and resolve merge conflicts.
+Review comment: "Be more specific with the type of publicity events planned"
+After feedback: I made sure to pull any changes and check the branch I'm in before I push any changes.
+Conflict resolved: We discussed issues with merging in the event organisers section and decided how to resolve those conflicts to include everyone's member number in order.
+Further practice: I'd like to practice opening pull requests and merging conflicts more.
